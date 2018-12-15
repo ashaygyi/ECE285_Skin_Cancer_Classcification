@@ -12,7 +12,7 @@ demo notebook along with its required files tested on DSMLP server with 'launch-
 Code organization
 =================
 <pre>
-demo_HAM10000_VGG13. ipynb -- Run a demo of our code 
+demo_HAM10000_VGG13.ipynb -- Run a demo of our code 
         |
         |----- imports VGG-13 model trained from the training notebook below 
         |----- evalutes a example testset of 10 images picked from the complete dataset 
