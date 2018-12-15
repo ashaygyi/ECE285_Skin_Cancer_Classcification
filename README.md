@@ -31,7 +31,7 @@ utility.py -- Implements some helper functions for training and displaying
         |----- plotting tools such as training accuracy line plots and example image displays
 
 assets/vgg13_model.json -- Our VGG-13 network architecture definition
-            /vgg13_model.h5    --  Trained parameters of VGG-13 network on HAM10000 datasets
-            /images_test.npy     -- Zipped numpy binary file of arrays of test images
-            /labels_test.npy       -- Zipped numpy binary file of arrays of test labels
+      /vgg13_model.h5   --  Trained parameters of VGG-13 network on HAM10000 datasets
+      /images_test.npy  -- Zipped numpy binary file of arrays of test images
+      /labels_test.npy  -- Zipped numpy binary file of arrays of test labels
 </pre>
